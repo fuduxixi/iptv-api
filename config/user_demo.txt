@@ -17,14 +17,9 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
-CETV-1
-CETV-2
-CETV-3
-CETV-4
 
 📡卫视频道,#genre#
 广东卫视
-香港卫视
 浙江卫视
 湖南卫视
 北京卫视
@@ -58,22 +53,21 @@ CETV-4
 新疆卫视
 云南卫视
 
-☘️广东频道,#genre#
-广东珠江
-广东体育
-广东新闻
-广东卫视
-广东民生
-大湾区卫视
-广州综合
-广州影视
-广州竞赛
-江门综合
-江门侨乡生活
-佛山综合
-深圳卫视
-汕头综合
-汕头经济
-汕头文旅
-茂名综合
-茂名公共
+🏙️地方频道,#genre#
+通化新闻综合
+
+🇭🇰港澳频道,#genre#
+港台电视 31
+
+🌍国际频道,#genre#
+TV BRICS Chinese
+ABC News
+Chifeng News
+BBC News
+Al Jazeera English
+France 24 English
+Bloomberg TV US
+CNBC
+
+🇹🇼台湾频道,#genre#
+TVBS Asia
